@@ -3,6 +3,7 @@
     $ rebar3 proper
     ===> Verifying dependencies...
     Compiling proper_gleam_example
+    Compiling prop_proper_gleam_example
     Compiling gleam/otp/port
     Compiling gleam/otp/node
     Compiling gleam/order
@@ -18,25 +19,25 @@
     Compiling gleam/int
     Compiling gleam/io
     Compiling gleam/list
+    Compiling gleam/result
+    Compiling gleam/queue
     Compiling gleam/iterator
     Compiling gleam/otp/intensity_tracker
-    Compiling gleam/result
     Compiling gleam/map
     Compiling gleam/set
-    Compiling gleam/queue
     Compiling gleam/bit_string
     Compiling gleam/bit_builder
     Compiling gleam/dynamic
     Compiling gleam/function
     Compiling gleam/otp/process
-    Compiling gleam/otp/task
     Compiling gleam/otp/system
-    Compiling gleam/string
-    Compiling gleam/os
-    Compiling gleam/base
-    Compiling gleam/uri
+    Compiling gleam/otp/task
     Compiling gleam/otp/actor
     Compiling gleam/otp/supervisor
+    Compiling gleam/string
+    Compiling gleam/base
+    Compiling gleam/uri
+    Compiling gleam/os
     Done!
     ===> Analyzing applications...
     ===> Compiling proper_gleam_example
